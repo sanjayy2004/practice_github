@@ -1,1 +1,1 @@
-this is text file
+this file is created using touch command and the data is inserted using echo command
